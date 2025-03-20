@@ -1,3 +1,5 @@
+### Live App Link - https://tl-malaria-detector-34f82fb83c2b.herokuapp.com/
+
 ## How to use this repo
 
 1. Fork this repo and copy the https URL of your forked Walkthrough01 repo
